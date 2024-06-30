@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Jivaro_OSRS_Bot_Manager
+namespace BotForge
 {
     /// <summary>
     /// Interaction logic for App.xaml

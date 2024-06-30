@@ -1,4 +1,4 @@
-﻿<Window x:Class="Jivaro_OSRS_Bot_Manager.SettingsWindow"
+﻿<Window x:Class="BotForge.SettingsWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Settings" 

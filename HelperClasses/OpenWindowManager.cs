@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace Jivaro_OSRS_Bot_Manager
+namespace BotForge
 {
     public static class OpenWindowManager
     {
